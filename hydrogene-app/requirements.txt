@@ -1,6 +1,0 @@
-﻿streamlit
-pandas
-numpy
-numpy-financial
-plotly
-openpyxl
